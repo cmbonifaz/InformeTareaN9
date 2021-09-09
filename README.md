@@ -211,13 +211,19 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12Ω  a 15Ω ∠30° y para EAA  120 V∠0°,haga lo siguiente:**
 
+<img src="imagenes/cap24/fig24-3.jpg">
+
 **a. Calcule las corrientes IA, IB e IC.**
 
 **b. Sume las corrientes. ¿Se cumple IA + IB + IC = 0?**
 
 **3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.**
 
+<img src="imagenes/cap24/fig24-3.jpg">
+
 **5. Para las cargas de la figura 24-4, Vbc = 208 V∠-75°.**
+
+<img src="imagenes/cap24/fig24-4.jpg">
 
 **a. Determine los voltajes línea a línea Vab y Vca.**
 
@@ -227,11 +233,17 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **7. Para la carga de la figura 24-47, Van  347 V∠15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.**
 
+<img src="imagenes/cap24/fig24-47.jpg">
+
 **9. Una carga Y balanceada tiene una impedancia de Zan = 14.7Ω ∠16°.Si Vcn = 120 V∠160°, determine todas las corrientes de línea.**
 
 **11. Para el circuito de la figura 24-48, Vab = 480 V∠0°. Encuentre la fase y las corrientes de línea.**
 
+<img src="imagenes/cap24/fig24-48.jpg">
+
 **13. Para el circuito de la figura 24-48, si Iab = 10 A∠21°, determine todos los voltajes de línea.**
+
+<img src="imagenes/cap24/fig24-48.jpg">
 
 **15. Una carga Y balanceada tiene una impedancia de fase de 24Ω ∠33° y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea.**
 
@@ -249,35 +261,59 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **21. Para la figura 24-49, Van = 120 V∠0°. Dibuje el equivalente de una sola fase y:**
 
+<img src="imagenes/cap24/fig24-49.jpg">
+
 **a. Encuentre el voltaje de fase EAN, magnitud y ángulo.**
 
 **b. Encuentre el voltaje de línea EAB, magnitud y ángulo.**
 
 **23. Para la figura 24-48, EAN = 120 V∠10°. Encuentre la corriente de línea con el método equivalente de una sola fase.**
 
+<img src="imagenes/cap24/fig24-48.jpg">
+
 **25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea de 0.15Ω+j0.25Ω y EAN = 120 V∠0°. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.**
+
+<img src="imagenes/cap24/fig24-48.jpg">
 
 **27. Para el circuito de la figura 24-49, suponga que Zlínea= 0.15Ω + j0.25Ω  y Vab = 600 V∠30°. Determine EAB.**
 
+<img src="imagenes/cap24/fig24-49.jpg">
+
 **29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Vab = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.**
 
+<img src="imagenes/cap24/fig24-21.jpg">
+
 **31. Para la figura 24-21(a), ZY = 15Ω+j20 , ZΔ=9Ω- j12 , Zlínea =0.1Ω+ j0.1 , e Iab= 40A∠73.13°. Encuentre el voltaje de fase Y Van,magnitud y ángulo.**
+
+<img src="imagenes/cap24/fig24-21.jpg">
 
 **33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.**
 
 **35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL  207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
 
+<img src="imagenes/cap24/fig24-47.jpg">
+
 **37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.**
+
+<img src="imagenes/cap24/fig24-48.jpg">
 
 **39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.**
 
+<img src="imagenes/cap24/fig24-53.jpg">
+
 **41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.**
+
+<img src="imagenes/cap24/fig24-19.jpg">
 
 **43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)**
 
 **45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.**
 
+<img src="imagenes/cap24/fig24-54.jpg">
+
 **47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.**
+
+<img src="imagenes/cap24/fig24-47.jpg">
 
 **a. Dibuje tres wattímetros correctamente en el circuito.**
 
@@ -286,6 +322,8 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 **c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.**
 
 **49. Para el circuito de la figura 24-56, Vab = 208 V∠30°.**
+
+<img src="imagenes/cap24/fig24-56.jpg">
 
 **a. Determine la magnitud y ángulo de las corrientes.**
 
@@ -297,17 +335,23 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **51. Considere el circuito de la figura 24-56.**
 
+<img src="imagenes/cap24/fig24-56.jpg">
+
 **a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.**
 
 **b. En el problema 49 se determinaron las lecturas del wattímetro en Ph = 1164 W y Pl=  870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).**
 
 **53. Para la figura 24-58, Rab = 60Ω , Zbc  80Ω+ j60Ω . Calcule**
 
+<img src="imagenes/cap24/fig24-58.jpg">
+
 **a. Las corrientes de fase y de línea.**
 
 **b. La potencia en cada fase y la potencia total.**
 
 **55. Para la figura 24-59, calcule lo siguiente:**
+
+<img src="imagenes/cap24/fig24-59.jpg">
 
 **a. Las corrientes de línea, sus magnitudes y ángulos.**
 
@@ -318,6 +362,8 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 **d. Potencia total en la carga.**
 
 **57. A partir del problema 56, Ia = 1.94 A∠0.737°, Ib = 4.0 A∠117.7° e Ic = 3.57 A∠91.4°. Calcule lo siguiente:**
+
+<img src="imagenes/cap24/fig24-59.jpg">
 
 **a. Los voltajes en cada fase de la carga.**
 
