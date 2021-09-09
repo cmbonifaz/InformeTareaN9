@@ -14,9 +14,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 2. MARCO TEÓRICO
 
-#### Capitulo 
+#### Capitulo 23 (Transformadores y circuitos acoplados)
 
-#### Capitulo 
+#### Capitulo 24 (Sistemas de tres fases)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -65,7 +65,7 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 
 
-#### Capitulo
+#### Capitulo 24 (Sistemas de tres fases)
 
 ### 4. VIDEO
 
