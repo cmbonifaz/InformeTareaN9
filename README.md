@@ -241,7 +241,7 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **b. Determine los voltajes de fase.**
 
-<img src="imagenes/cap24/ejer2b_1.jpg">
+<img src="imagenes/cap24/ejer5b_1.jpg">
 
 **c. Dibuje el diagrama fasorial.**
 
