@@ -341,35 +341,69 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 <img src="imagenes/cap24/fig24-21.jpg">
 
+<img src="imagenes/cap24/ejer29a_1.jpg">
+
+<img src="imagenes/cap24/ejer29a_2.jpg">
+
+<img src="imagenes/cap24/ejer29a_3.jpg">
+
 **31. Para la figura 24-21(a), ZY = 15Ω+j20 , ZΔ=9Ω- j12 , Zlínea =0.1Ω+ j0.1 , e Iab= 40A∠73.13°. Encuentre el voltaje de fase Y Van,magnitud y ángulo.**
 
 <img src="imagenes/cap24/fig24-21.jpg">
+
+<img src="imagenes/cap24/ejer31a_1.jpg">
 
 **33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.**
 
 <img src="imagenes/cap24/fig24-51.jpg">
 
+<img src="imagenes/cap24/ejer33a_1.jpg">
+
+<img src="imagenes/cap24/ejer33a_2.jpg">
+
 **35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL  207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
 
 <img src="imagenes/cap24/fig24-47.jpg">
+
+<img src="imagenes/cap24/ejer35a_1.jpg">
+
+<img src="imagenes/cap24/ejer35a_2.jpg">
 
 **37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.**
 
 <img src="imagenes/cap24/fig24-48.jpg">
 
+<img src="imagenes/cap24/ejer37a_1.jpg">
+
+<img src="imagenes/cap24/ejer37a_2.jpg">
+
 **39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.**
 
 <img src="imagenes/cap24/fig24-53.jpg">
+
+<img src="imagenes/cap24/ejer39a_1.jpg">
+
+<img src="imagenes/cap24/ejer39a_2.jpg">
 
 **41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.**
 
 <img src="imagenes/cap24/fig24-19.jpg">
 
+<img src="imagenes/cap24/ejer41a_1.jpg">
+
+<img src="imagenes/cap24/ejer41a_2.jpg">
+
 **43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)**
+
+<img src="imagenes/cap24/ejer43a_1.jpg">
 
 **45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.**
 
 <img src="imagenes/cap24/fig24-54.jpg">
+
+<img src="imagenes/cap24/ejer45a_1.jpg">
+
+<img src="imagenes/cap24/ejer45a_2.jpg">
 
 **47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.**
 
@@ -377,9 +411,15 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Dibuje tres wattímetros correctamente en el circuito.**
 
+<img src="imagenes/cap24/ejer47a_1.jpg">
+
 **b. Calcule la lectura de cada uno.**
 
+<img src="imagenes/cap24/ejer47b_1.jpg">
+
 **c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.**
+
+<img src="imagenes/cap24/ejer47c_1.jpg">
 
 **49. Para el circuito de la figura 24-56, Vab = 208 V∠30°.**
 
@@ -387,11 +427,19 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Determine la magnitud y ángulo de las corrientes.**
 
+<img src="imagenes/cap24/ejer49a_1.jpg">
+
 **b. Determine la potencia por fase y la potencia total, PT.**
+
+<img src="imagenes/cap24/ejer49b_1.jpg">
 
 **c. Calcule las lecturas de cada wattímetro.**
 
+<img src="imagenes/cap24/ejer49c_1.jpg">
+
 **d. Sume las lecturas de los medidores y compare los resultados para PT de (b).**
+
+<img src="imagenes/cap24/ejer49d_1.jpg">
 
 **51. Considere el circuito de la figura 24-56.**
 
@@ -399,7 +447,11 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.**
 
+<img src="imagenes/cap24/ejer51a_1.jpg">
+
 **b. En el problema 49 se determinaron las lecturas del wattímetro en Ph = 1164 W y Pl=  870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).**
+
+<img src="imagenes/cap24/ejer51b_1.jpg">
 
 **53. Para la figura 24-58, Rab = 60Ω , Zbc  80Ω+ j60Ω . Calcule**
 
@@ -407,7 +459,13 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Las corrientes de fase y de línea.**
 
+<img src="imagenes/cap24/ejer53a_1.jpg">
+
+<img src="imagenes/cap24/ejer53a_2.jpg">
+
 **b. La potencia en cada fase y la potencia total.**
+
+<img src="imagenes/cap24/ejer53b_1.jpg">
 
 **55. Para la figura 24-59, calcule lo siguiente:**
 
@@ -415,11 +473,19 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Las corrientes de línea, sus magnitudes y ángulos.**
 
+<img src="imagenes/cap24/ejer55a_1.jpg">
+
 **b. La corriente en el neutro.**
+
+<img src="imagenes/cap24/ejer55b_1.jpg">
 
 **c. La potencia en cada fase.**
 
+<img src="imagenes/cap24/ejer55c_1.jpg">
+
 **d. Potencia total en la carga.**
+
+<img src="imagenes/cap24/ejer55d_1.jpg">
 
 **57. A partir del problema 56, Ia = 1.94 A∠0.737°, Ib = 4.0 A∠117.7° e Ic = 3.57 A∠91.4°. Calcule lo siguiente:**
 
@@ -427,13 +493,19 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Los voltajes en cada fase de la carga.**
 
+<img src="imagenes/cap24/ejer57a_1.jpg">
+
 **b. El voltaje entre el neutro de la carga y el neutro del generador.**
+
+<img src="imagenes/cap24/ejer57b_1.jpg">
 
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES 
 
 - Los transformadores tienen muchas aplicaciones. Se usan en sistemas de potencia eléctrica para aumentar el voltaje en transmisiones a larga distancia y para disminuirlo luego otra vez a un nivel seguro para su empleo en casas y oficinas.
+
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por Transformadores y circuitos acoplados, o por Sistemas de tres fases que lo aprendidio en clases se ha clarificado.
 
 ### 6. BIBLIOGRAFÍA
 
