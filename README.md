@@ -215,11 +215,21 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Calcule las corrientes IA, IB e IC.**
 
+<img src="imagenes/cap24/ejer1a_1.jpg">
+
+<img src="imagenes/cap24/ejer1a_2.jpg">
+
+<img src="imagenes/cap24/ejer1a_3.jpg">
+
 **b. Sume las corrientes. ¿Se cumple IA + IB + IC = 0?**
+
+<img src="imagenes/cap24/ejer1b_1.jpg">
 
 **3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.**
 
 <img src="imagenes/cap24/fig24-3.jpg">
+
+<img src="imagenes/cap24/ejer3.jpg">
 
 **5. Para las cargas de la figura 24-4, Vbc = 208 V∠-75°.**
 
@@ -227,57 +237,105 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **a. Determine los voltajes línea a línea Vab y Vca.**
 
+<img src="imagenes/cap24/ejer5a_1.jpg">
+
 **b. Determine los voltajes de fase.**
 
+<img src="imagenes/cap24/ejer2b_1.jpg">
+
 **c. Dibuje el diagrama fasorial.**
+
+<img src="imagenes/cap24/ejer5d_1.jpg">
 
 **7. Para la carga de la figura 24-47, Van  347 V∠15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.**
 
 <img src="imagenes/cap24/fig24-47.jpg">
 
+<img src="imagenes/cap24/ejer7a_1.jpg">
+
+<img src="imagenes/cap24/ejer7a_2.jpg">
+
+<img src="imagenes/cap24/ejer7a_3.jpg">
+
 **9. Una carga Y balanceada tiene una impedancia de Zan = 14.7Ω ∠16°.Si Vcn = 120 V∠160°, determine todas las corrientes de línea.**
+
+<img src="imagenes/cap24/ejer9a_1.jpg">
+
+<img src="imagenes/cap24/ejer9a_2.jpg">
 
 **11. Para el circuito de la figura 24-48, Vab = 480 V∠0°. Encuentre la fase y las corrientes de línea.**
 
 <img src="imagenes/cap24/fig24-48.jpg">
 
+<img src="imagenes/cap24/ejer11a_1.jpg">
+
+<img src="imagenes/cap24/ejer11a_2.jpg">
+
 **13. Para el circuito de la figura 24-48, si Iab = 10 A∠21°, determine todos los voltajes de línea.**
 
 <img src="imagenes/cap24/fig24-48.jpg">
 
+<img src="imagenes/cap24/ejer13a_1.jpg">
+
 **15. Una carga Y balanceada tiene una impedancia de fase de 24Ω ∠33° y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea.**
+
+<img src="imagenes/cap24/ejer15a_1.jpg">
 
 **17. a. Para cierta carga Y balanceada, Vab = 208 V∠30°, Ia = 24 A∠40° y f = 60 Hz. Determine la carga (R y L o C).**
 
+<img src="imagenes/cap24/ejer17a_1.jpg">
+
 **b. Repita el inciso (a) si Vbc = 208 V∠30° e Ic = 12 A∠140°.**
+
+<img src="imagenes/cap24/ejer17b_1.jpg">
 
 **19. Una carga Δ balanceada a 60 Hz tiene una corriente de Ibc = 4.5 A∠85°. El voltaje de línea es de 240 volts y Vab se toma como referencia.**
 
 **a. Encuentre las otras corrientes de fase.**
 
+<img src="imagenes/cap24/ejer19a_1.jpg">
+
 **b. Encuentre las corrientes de línea.**
 
+<img src="imagenes/cap24/ejer19b_1.jpg">
+
 **c. Encuentre la resistencia R y la capacitancia C de la carga.**
+
+<img src="imagenes/cap24/ejer19c_1.jpg">
 
 **21. Para la figura 24-49, Van = 120 V∠0°. Dibuje el equivalente de una sola fase y:**
 
 <img src="imagenes/cap24/fig24-49.jpg">
 
+<img src="imagenes/cap24/ejer21.jpg">
+
 **a. Encuentre el voltaje de fase EAN, magnitud y ángulo.**
 
+<img src="imagenes/cap24/ejer21a_1.jpg">
+
 **b. Encuentre el voltaje de línea EAB, magnitud y ángulo.**
+
+<img src="imagenes/cap24/ejer21b_1.jpg">
 
 **23. Para la figura 24-48, EAN = 120 V∠10°. Encuentre la corriente de línea con el método equivalente de una sola fase.**
 
 <img src="imagenes/cap24/fig24-48.jpg">
 
+<img src="imagenes/cap24/ejer23a_1.jpg">
+
 **25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea de 0.15Ω+j0.25Ω y EAN = 120 V∠0°. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.**
 
 <img src="imagenes/cap24/fig24-48.jpg">
 
+<img src="imagenes/cap24/ejer25a_1.jpg">
+
 **27. Para el circuito de la figura 24-49, suponga que Zlínea= 0.15Ω + j0.25Ω  y Vab = 600 V∠30°. Determine EAB.**
 
 <img src="imagenes/cap24/fig24-49.jpg">
+
+<img src="imagenes/cap24/ejer27a_1.jpg">
+
+<img src="imagenes/cap24/ejer27a_2.jpg">
 
 **29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Vab = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.**
 
