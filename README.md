@@ -24,6 +24,49 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 23 (Transformadores y circuitos acoplados)
 
+**1. Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.**
+
+**3. Un transformador ideal tiene Np=1000 vueltas y Ns=4000 vueltas.**
+
+**a. ¿El voltaje se eleva o se reduce?**
+
+**b. Si e_s=100 sen(ωt), ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)?**
+
+**c. Si E_s=24 volts, ¿qué valor tiene Ep?**
+
+**d. Si E_p=24V<0° , ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)?**
+
+**e. Si E_p=800V<0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?**
+
+**5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.**
+
+**7. Si, para la figura 23-73, E_g=240V<0°, a=0.5 , e I_g=2A<20°, determine lo siguiente:**
+
+**a. IL**
+
+**b. VL**
+
+**c. ZL**
+
+**9. Si, para la figura 23-73, a=4, I_g=4 A<30°, y Z_L=6 Ω-j8 Ω, determine lo siguiente:**
+
+**a. VL**
+
+**b. Eg**
+
+**11. Para cada circuito de la figura 23-74, determine Zp**
+
+![image](https://user-images.githubusercontent.com/84753054/132685462-263dcf1f-731b-4550-a6db-3a4982e4b440.png)
+
+**13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Z_p=(62.5-j125)Ω?**
+
+**15. Para cada circuito de la figura 23-75, determine ZT.**
+
+**17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a=0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?**
+
+**19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es un horno de 2400 W con Fp=1.0, determine**
+
+
 
 **23. Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20ohm∠50°, Z3 = (12 + j4) ohm y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.**
 
