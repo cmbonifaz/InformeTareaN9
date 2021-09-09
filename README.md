@@ -14,6 +14,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Clarificar el estudio de los Transformadores y circuitos acoplados, además de losSistemas de tres fases, todo esto aplicando los conocimientos aprendidos durante clases.
 
+- Calcular el voltaje y la corriente en circuitos con transformadores con núcleo de hierro y núcleo de aire.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 23 (Transformadores y circuitos acoplados)
