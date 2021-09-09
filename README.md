@@ -12,6 +12,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
+- Clarificar el estudio de los Transformadores y circuitos acoplados, además de losSistemas de tres fases, todo esto aplicando los conocimientos aprendidos durante clases.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 23 (Transformadores y circuitos acoplados)
