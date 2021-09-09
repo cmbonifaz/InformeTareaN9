@@ -18,6 +18,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 23 (Transformadores y circuitos acoplados)
 
+![Transformadores y circuitos acoplados](https://user-images.githubusercontent.com/84753054/132713617-a2ca4d83-cd0f-4730-9c30-6b43009c0907.png)
+
 #### Capitulo 24 (Sistemas de tres fases)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
