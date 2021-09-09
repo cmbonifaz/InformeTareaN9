@@ -26,17 +26,37 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **1. Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.**
 
+![image](https://user-images.githubusercontent.com/84753054/132686614-8b199496-20f9-463e-b545-cac11654f4fb.png)
+
+![image](https://user-images.githubusercontent.com/84753054/132686627-32c245b1-e1fa-4324-8ea8-8e4976becb5c.png)
+
 **3. Un transformador ideal tiene Np=1000 vueltas y Ns=4000 vueltas.**
 
 **a. ¿El voltaje se eleva o se reduce?**
 
+![Captura](https://user-images.githubusercontent.com/84753054/132687604-4eb5a09a-72e0-4173-ba0f-7f37329caebf.PNG)
+
 **b. Si e_s=100 sen(ωt), ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)?**
+
+![image](https://user-images.githubusercontent.com/84753054/132687643-865288de-6ccd-4653-87dc-63865af6ac23.png)
+
+![Captura1](https://user-images.githubusercontent.com/84753054/132687673-62ae2130-dcc7-4879-8a73-a1f486fa1587.PNG)
 
 **c. Si E_s=24 volts, ¿qué valor tiene Ep?**
 
+![Captura2](https://user-images.githubusercontent.com/84753054/132687714-d20620d9-578c-4e15-aec8-b902670190eb.PNG)
+
 **d. Si E_p=24V<0° , ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)?**
 
+![image](https://user-images.githubusercontent.com/84753054/132687747-9c402a2e-767b-414b-b426-bf83f487f9fe.png)
+
+![Captura3](https://user-images.githubusercontent.com/84753054/132687806-236dbe4f-dbd9-4e3e-bfa2-51f8687d8b43.PNG)
+
 **e. Si E_p=800V<0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?**
+
+![image](https://user-images.githubusercontent.com/84753054/132687838-4c1f1554-b565-4b63-b682-281d5ed5fedb.png)
+
+![Captura4](https://user-images.githubusercontent.com/84753054/132687880-48984fd0-ab77-4832-b5fb-bf0bceb9a3dc.PNG)
 
 **5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.**
 
