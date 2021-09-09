@@ -213,7 +213,7 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 ### 5. CONCLUSIONES 
 
--Los transformadores tienen muchas aplicaciones. Se usan en sistemas de potencia eléctrica para aumentar el voltaje en transmisiones a larga distancia y para disminuirlo luego otra vez a un nivel seguro para su empleo en casas y oficinas.
+- Los transformadores tienen muchas aplicaciones. Se usan en sistemas de potencia eléctrica para aumentar el voltaje en transmisiones a larga distancia y para disminuirlo luego otra vez a un nivel seguro para su empleo en casas y oficinas.
 
 ### 6. BIBLIOGRAFÍA
 
