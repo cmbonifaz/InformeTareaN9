@@ -8,7 +8,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** Capitulo  y capitulo de Análisis de Circuitos - Robbins, Miller
+**Tema:** Capitulo 23 (Transformadores y circuitos acoplados) y capitulo 24 (Sistemas de tres fases) de Análisis de Circuitos - Robbins, Miller
 
 ### 1. OBJETIVOS
 
