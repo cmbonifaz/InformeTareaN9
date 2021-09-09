@@ -289,6 +289,8 @@ Para cada circuito indique qué signo usar con M, más o menos.**
 
 **33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.**
 
+<img src="imagenes/cap24/fig24-51.jpg">
+
 **35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL  207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
 
 <img src="imagenes/cap24/fig24-47.jpg">
