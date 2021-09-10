@@ -24,7 +24,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 24 (Sistemas de tres fases)
 
-<img src="imagenes/cap24/cap24.jpg">
+<img src="imagenes/cap24/cap24.png">
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
